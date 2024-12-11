@@ -2,9 +2,9 @@
 
 ### 听力
 
-全部听力资源
+​	全部听力资源
 
-请跳转 https://www.bilibili.com/video/BV1Zu411x7k4/
+​	请跳转 https://www.bilibili.com/video/BV1Zu411x7k4/
 
 
 
@@ -15,4 +15,8 @@
 - 核对答案时请务必参照**选项**，<u>不要看ABCD</u>
 
 
+
+### 做题
+
+可以参照一下这篇文档[一些建议.md](./一些建议.md)
 
